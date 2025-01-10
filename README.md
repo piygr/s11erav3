@@ -55,6 +55,9 @@ This repository provides a Hindi Tokenizer implemented in Python, leveraging Byt
 - **`tokenizer.py`**: Contains the `HindiTokenizer` class with methods for tokenization and detokenization.
 - **`hindi_bpe_vocab.model`**: Pre-trained Byte Pair Encoding (BPE) vocabulary model for Hindi text.
 
+## Training
+ <img width="1440" alt="Screenshot 2025-01-10 at 5 13 00 PM" src="https://github.com/user-attachments/assets/972b1c0e-0e3b-47b7-979a-f7159c597e08" />
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
