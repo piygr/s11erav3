@@ -2,6 +2,10 @@
 
 This repository provides a Hindi Tokenizer implemented in Python, leveraging Byte Pair Encoding (BPE) for efficient subword tokenization. It is designed to handle Hindi text data effectively and can be integrated into NLP pipelines requiring subword tokenization.
 
+## Demo
+[Huggingface Space App](https://huggingface.co/spaces/piyushgrover/HindiTokenizer)
+
+ 
 ## Features
 
 - **Subword Tokenization**: Efficiently breaks text into subword units to manage out-of-vocabulary words.
